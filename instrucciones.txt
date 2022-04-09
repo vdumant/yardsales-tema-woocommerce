@@ -1,0 +1,4 @@
+1. Instalar plugin woocommerce
+2. Instalar tema storefront.
+3. Colocar esta carpeta(yardsales) en el directorio de wordpress:
+   C:\laragon\www\platzicommerce\wp-content\themes\
